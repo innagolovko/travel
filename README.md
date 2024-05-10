@@ -17,4 +17,4 @@ ________________________________________________________________________________
    width: 100px;
 }
 ```
-Сайт расположен https://mybenim.github.io/russian-travel/
+Сайт расположен https://innagolovko.github.io/travel/
