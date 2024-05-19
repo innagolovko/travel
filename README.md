@@ -1,6 +1,6 @@
 # **Проект 'Путешествия по России'**
 
-Вёрстка сайта выполнена с использованием
+Вёрстка сайта выполнена с использованием:
 - flex-box,
 - grid,
 - pseudo-elements,
@@ -8,6 +8,8 @@
 
 > Сайт является адаптивным, так как в него встроен код ***meta name="viewport"
 > content="width=device-width, initial-scale=1.0"***
+
+В проекте используются:
 
 [![HTML](https://raw.githubusercontent.com/innagolovko/innagolovko/2ffcf84a9b8adb1876e29a661e289928b14f073a/images/HTML.svg)](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
 [![CSS](https://raw.githubusercontent.com/innagolovko/innagolovko/2ffcf84a9b8adb1876e29a661e289928b14f073a/images/CSS.svg)](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics)
